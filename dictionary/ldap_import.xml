@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d4b891e6973a2110cefbb7d0f053afac" extends="sys_import_set_row" label="Test Server for any demo/Users" max_length="40" name="ldap_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cn" label="cn" max_length="40" name="u_cn" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=displayname" label="displayname" max_length="40" name="u_displayname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=dn" label="dn" max_length="255" name="u_dn" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=gidnumber" label="gidnumber" max_length="40" name="u_gidnumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=givenname" label="givenname" max_length="40" name="u_givenname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=homedirectory" label="homedirectory" max_length="40" name="u_homedirectory" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=initials" label="initials" max_length="40" name="u_initials" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=mail" label="mail" max_length="40" name="u_mail" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=o" label="o" max_length="40" name="u_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=objectclass" label="objectclass" max_length="58" name="u_objectclass" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=sn" label="sn" max_length="40" name="u_sn" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=source" label="source" max_length="255" name="u_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=telephonenumber" label="telephonenumber" max_length="40" name="u_telephonenumber" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=uid" label="uid" max_length="40" name="u_uid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=uidnumber" label="uidnumber" max_length="40" name="u_uidnumber" type="string"/>
+    </element>
+</database>
