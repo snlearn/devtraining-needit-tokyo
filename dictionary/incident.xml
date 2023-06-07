@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="db9bcf06c59021108c8b506e733c4c06" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="CallerEmail" max_length="40" name="x_58872_needit_calleremail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="x_58872_needit_department" type="string"/>
+    </element>
+</database>

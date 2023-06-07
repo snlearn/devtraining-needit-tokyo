@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="db6fa6e6973e2110cefbb7d0f053aff2" extends="sys_import_set_row" label="occasion staging" max_length="40" name="x_58872_needit_occasion_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Are any of the products or services related to money services such as M-Pesa?" label="Are any of the products or services related to money services such as M-Pesa?" max_length="40" name="u_are_any_of_t_uch_as_m_pesa_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,family=true,friends or close associates with any employee of the supplier?=true,import_attribute_name=Are you aware of any conflicting relationship with you" label="Are you aware of any conflicting relationship with you, family, friends or close" max_length="40" name="u_are_you_awar__the_supplier_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Case ID" label="Case ID" max_length="40" name="u_case_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Case Status" label="Case Status" max_length="40" name="u_case_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Interacts with Public Officials" label="Interacts with Public Officials" max_length="40" name="u_interacts_wi_blic_officials" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator AML" label="RiskIndicator AML" max_length="40" name="u_riskindicator_aml" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Payment Policy" label="RiskIndicator Payment Policy" max_length="40" name="u_riskindicator_payment_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Privacy Policy" label="RiskIndicator Privacy Policy" max_length="40" name="u_riskindicator_privacy_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator  Conflict Of Interest" label="RiskIndicator  Conflict Of Interest" max_length="40" name="u_riskindicato_ct_of_interest" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Corporate Security Policy" label="RiskIndicator Corporate Security Policy" max_length="40" name="u_riskindicato_ecurity_polic0" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Cyber Security Policy" label="RiskIndicator Cyber Security Policy" max_length="40" name="u_riskindicato_ecurity_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Conflict Minerals" label="RiskIndicator Conflict Minerals" max_length="40" name="u_riskindicato_flict_minerals" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator AntiBriberyPolicy" label="RiskIndicator AntiBriberyPolicy" max_length="40" name="u_riskindicato_ibriberypolicy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Responsible Sourcing Policy" label="RiskIndicator Responsible Sourcing Policy" max_length="40" name="u_riskindicato_ourcing_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Environment Policy" label="RiskIndicator Environment Policy" max_length="40" name="u_riskindicato_ronment_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Product Safety Policy" label="RiskIndicator Product Safety Policy" max_length="40" name="u_riskindicato__safety_polic0" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Health &amp; Safety Policy" label="RiskIndicator Health &amp; Safety Policy" max_length="40" name="u_riskindicato__safety_policy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RiskIndicator Sanctions &amp; Trade Control" label="RiskIndicator Sanctions &amp; Trade Control" max_length="40" name="u_riskindicato__trade_control" type="string"/>
+    </element>
+</database>

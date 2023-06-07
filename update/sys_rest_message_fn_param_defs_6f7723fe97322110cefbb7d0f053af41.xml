@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>org</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">9a556ff697322110cefbb7d0f053af6b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 10:53:15</sys_created_on>
+        <sys_id>6f7723fe97322110cefbb7d0f053af41</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>org</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_6f7723fe97322110cefbb7d0f053af41</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 10:53:15</sys_updated_on>
+        <value/>
+    </sys_rest_message_fn_param_defs>
+</record_update>
